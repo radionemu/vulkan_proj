@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/VR/Documents/GitHub/vulkan_proj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL  -g -std=gnu++17 -o CMakeFiles\\vulkan_examples.dir\\ex01.cpp.obj -c C:\\Users\\VR\\Documents\\GitHub\\vulkan_proj\\ex01.cpp",
+  "file": "C:/Users/VR/Documents/GitHub/vulkan_proj/ex01.cpp",
+  "output": "CMakeFiles/vulkan_examples.dir/ex01.cpp.obj"
+}
+]
